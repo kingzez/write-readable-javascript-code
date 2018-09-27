@@ -1,6 +1,10 @@
 # write-readable-javascript-code
 
-## Englist
+
+# ![banner](https://user-images.githubusercontent.com/10891613/46139520-58221b00-c281-11e8-9ca4-76304256987a.png)
+
+
+## English
 
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - 🛁 Clean Code concepts adapted for JavaScript.
 - [javascript](https://github.com/airbnb/javascript) - Airbnb JavaScript Style Guide.
